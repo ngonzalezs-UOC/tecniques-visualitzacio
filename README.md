@@ -45,7 +45,7 @@ El projecte es troba en [aquest repositori públic de GitHub](https://github.com
 - **ProportionalSymbolMap/dev/\*.\***: Codi font en Jupiter Notebook, datasets d'entrada i fitxers auxiliars.
 - **ProportionalSymbolMap/output/ProportionalSymbolMap.\***: Fitxers amb les visualitzacions generades (imatges i codi html)
 - **RoseChart/dev/\*.\***: Codi font en Jupiter Notebook, datasets d'entrada i fitxers auxiliars.
-- **RoseChart/output/RoseChart.\***: Fitxers amb les visualitzacions generades (imatges i codi html interactiu)
+- **RoseChart/output/RoseChart.\***: Fitxers amb les visualitzacions generades (imatges i codi html)
 - **WordCloud/dev/\*.\***: Codi font en Jupiter Notebook, datasets d'entrada i fitxers auxiliars.
 - **WordCloud/output/WordCloud.\***: Fitxers amb les visualitzacions generades (imatges)
 - **LICENSE.txt**: Document amb els termes de la llicència aplicada al projecte.

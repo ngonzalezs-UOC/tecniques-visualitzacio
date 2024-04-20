@@ -12,15 +12,15 @@ L'objectiu és implementar una visualització de dades relacionada amb cadascuna
 
 **Proportional Symbol Map**
 - Interactiva: [ProportionalSymbolMap.html](https://ngonzalezs-uoc.github.io/tecniques-visualitzacio/ProportionalSymbolMap/output/ProportionalSymbolMap.html) 
-- Imatge fixa: [ProportionalSymbolMap.png](https://ngonzalezs-uoc.github.io/tecniques-visualitzacio/ProportionalSymbolMap/output/ProportionalSymbolMap.png) 
+- Imatge.....: [ProportionalSymbolMap.png](https://ngonzalezs-uoc.github.io/tecniques-visualitzacio/ProportionalSymbolMap/output/ProportionalSymbolMap.png) 
 
 **Rose Chart**
 - Interactiva: [RoseChart.html](https://ngonzalezs-uoc.github.io/tecniques-visualitzacio/RoseChart/output/RoseChart.html) 
-- Imatge fixa: [RoseChart.png](https://ngonzalezs-uoc.github.io/tecniques-visualitzacio/RoseChart/output/RoseChart.png) 
+- Imatge.....: [RoseChart.png](https://ngonzalezs-uoc.github.io/tecniques-visualitzacio/RoseChart/output/RoseChart.png) 
 
 **Word cloud**
-
-
+- Imatge Wordcloud estàndard : [WordCloud_estandard.png](https://ngonzalezs-uoc.github.io/tecniques-visualitzacio/WordCloud/output/WordCloud_estandard.png) 
+- Imatge Wordcloud emmascarat: [WordCloud_emmascarat.png](https://ngonzalezs-uoc.github.io/tecniques-visualitzacio/WordCloud/output/WordCloud_emmascarat.png) 
 
 ## Repositori
 

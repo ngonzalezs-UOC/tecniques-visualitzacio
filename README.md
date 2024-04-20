@@ -11,8 +11,8 @@ L'objectiu és implementar una visualització de dades relacionada amb cadascuna
 ## Accés a les visualitzacions
 
 **Proportional Symbol Map**
-- Interactiva:&nbsp;[ProportionalSymbolMap.html](https://ngonzalezs-uoc.github.io/tecniques-visualitzacio/ProportionalSymbolMap/output/ProportionalSymbolMap.html) 
-- Imatge.....: [ProportionalSymbolMap.png](https://ngonzalezs-uoc.github.io/tecniques-visualitzacio/ProportionalSymbolMap/output/ProportionalSymbolMap.png) 
+- Interactiva: [ProportionalSymbolMap.html](https://ngonzalezs-uoc.github.io/tecniques-visualitzacio/ProportionalSymbolMap/output/ProportionalSymbolMap.html) 
+- Imatge:      [ProportionalSymbolMap.png](https://ngonzalezs-uoc.github.io/tecniques-visualitzacio/ProportionalSymbolMap/output/ProportionalSymbolMap.png) 
 
 **Rose Chart**
 - Interactiva: [RoseChart.html](https://ngonzalezs-uoc.github.io/tecniques-visualitzacio/RoseChart/output/RoseChart.html) 

@@ -12,6 +12,8 @@ L'objectiu és implementar una visualització de dades relacionada amb cadascuna
 
 ## Accés a les visualitzacions
 
+La visualització directa és possible a través del [Web site de Github Pages corresponent a aquest repositori](https://ngonzalezs-uoc.github.io/tecniques-visualitzacio/). Això no obstant, tot seguit també es proporcionen els enllaços individuals directes:
+
 **Proportional Symbol Map**
 - Interactiva: [ProportionalSymbolMap.html](https://ngonzalezs-uoc.github.io/tecniques-visualitzacio/ProportionalSymbolMap/output/ProportionalSymbolMap.html) 
 - Imatge: [ProportionalSymbolMap.png](https://ngonzalezs-uoc.github.io/tecniques-visualitzacio/ProportionalSymbolMap/output/ProportionalSymbolMap.png) 

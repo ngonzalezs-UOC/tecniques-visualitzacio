@@ -1,7 +1,7 @@
 # tecniques-visualitzacio
 
 ![img.png](banner-readme.jpg)
-<span style="font-size:0.5em;">Font: [https://www.freepik.com/](https://www.freepik.com/)</span>
+*Font: [https://www.freepik.com/](https://www.freepik.com/)*
 
 ## Context
 

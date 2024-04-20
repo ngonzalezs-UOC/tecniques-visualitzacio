@@ -7,6 +7,7 @@ Els elements d'aquest repositori constitueixen la resposta a la PAC 2 de l'assig
 
 L'objectiu és implementar una visualització de dades relacionada amb cadascuna de les tres tècniques assignades individualment pel professor de l'assignatura. Aquestes tècniques són: *Proportional Symbol Map*, *Rose Chart* i *Word Cloud* (o *Tag Cloud*).
 
+
 ## Accés a les visualitzacions
 
 **Proportional Symbol Map**
@@ -14,9 +15,11 @@ L'objectiu és implementar una visualització de dades relacionada amb cadascuna
 - Imatge fixa: [ProportionalSymbolMap.png](https://ngonzalezs-uoc.github.io/tecniques-visualitzacio/ProportionalSymbolMap/output/ProportionalSymbolMap.png) 
 
 **Rose Chart**
-
+- Interactiva: [RoseChart.html](https://ngonzalezs-uoc.github.io/tecniques-visualitzacio/RoseChart/output/RoseChart.html) 
+- Imatge fixa: [RoseChart.png](https://ngonzalezs-uoc.github.io/tecniques-visualitzacio/RoseChart/output/RoseChart.png) 
 
 **Word cloud**
+
 
 
 ## Repositori
@@ -62,9 +65,11 @@ El projecte es troba en [aquest repositori públic de GitHub](https://github.com
 - **README.md**: Document explicatiu del projecte.
 - **banner-readme.png**: Imatge (banner) incrustada a la capçalera del fitxer README.md.
 
+
 ## Autoria
 
 Totes i cadascuna de les parts d'aquest treball han estat realitzades exclusivament de forma individual per **Nicolás González Soler**.
+
 
 ## Llicència
 

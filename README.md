@@ -1,7 +1,7 @@
 # tecniques-visualitzacio
 
 ![img.png](banner-readme.jpg)
-*Font: [https://www.freepik.com/](https://www.freepik.com/)*
+*[Designed by starline / Freepik](https://www.freepik.com)*
 
 ## Context
 

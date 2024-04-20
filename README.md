@@ -1,12 +1,19 @@
 # tecniques-visualitzacio
 M2.959 - Visualització de dades (PAC 2)
 
-
 ## Context
 
 Els elements d'aquest repositori constitueixen la resposta a la PAC 2 de l'assignatura *Visualització de dades* del *Màster en Ciència de Dades* de la [Universitat Oberta de Catalunya](https://www.uoc.edu/portal/ca/index.html) (UOC), corresponent al segon semestre del curs 2023-2024.
 
 L'objectiu és implementar una visualització de dades relacionada amb cadascuna de les tres tècniques assignades individualment pel professor de l'assignatura. Aquestes tècniques són: *Proportional Symbol Map*, *Rose Chart* i *Word Cloud* (o *Tag Cloud*).
+
+## Accés a les visualitzacions
+
+
+[ProportionalSymbolMap.html](https://ngonzalezs-uoc.github.io/tecniques-visualitzacio/ProportionalSymbolMap/output/ProportionalSymbolMap.html)
+
+
+
 
 
 ## Repositori

@@ -37,7 +37,7 @@ El projecte es troba en [aquest repositori públic de GitHub](https://github.com
     │   └─── output
     │            WordCloud_*.*
     │
-    ├─── LICENSE.txt
+    ├─── LICENSE
     ├─── README.md
     └─── banner-readme.png 
 
@@ -48,7 +48,7 @@ El projecte es troba en [aquest repositori públic de GitHub](https://github.com
 - **RoseChart/output/RoseChart.\***: Fitxers amb les visualitzacions generades (imatges i codi html)
 - **WordCloud/dev/\*.\***: Codi font en Jupiter Notebook, datasets d'entrada i fitxers auxiliars.
 - **WordCloud/output/WordCloud_\*.\***: Fitxers amb les visualitzacions generades (imatges)
-- **LICENSE.txt**: Document amb els termes de la llicència aplicada al projecte.
+- **LICENSE**: Document amb els termes de la llicència aplicada al projecte.
 - **README.md**: Document explicatiu del projecte.
 - **banner-readme.png**: Imatge (banner) incrustada a la capçalera del fitxer README.md.
 

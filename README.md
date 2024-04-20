@@ -1,5 +1,7 @@
 # tecniques-visualitzacio
-M2.959 - Visualització de dades (PAC 2)
+
+![img.png](banner-readme.jpg)
+Font: [https://www.freepik.com/](https://www.freepik.com/)
 
 ## Context
 
@@ -63,7 +65,7 @@ El projecte es troba en [aquest repositori públic de GitHub](https://github.com
 - **WordCloud/output/WordCloud_\*.\***: Fitxers amb les visualitzacions generades (imatges)
 - **LICENSE**: Document amb els termes de la llicència aplicada al projecte.
 - **README.md**: Document explicatiu del projecte.
-- **banner-readme.png**: Imatge (banner) incrustada a la capçalera del fitxer README.md.
+- **banner-readme.jpg**: Imatge (banner) incrustada a la capçalera del fitxer README.md.
 
 
 ## Autoria

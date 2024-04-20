@@ -18,9 +18,9 @@ L'objectiu és implementar una visualització de dades relacionada amb cadascuna
 - Interactiva: [RoseChart.html](https://ngonzalezs-uoc.github.io/tecniques-visualitzacio/RoseChart/output/RoseChart.html) 
 - Imatge: [RoseChart.png](https://ngonzalezs-uoc.github.io/tecniques-visualitzacio/RoseChart/output/RoseChart.png) 
 
-**Word cloud**
-- Imatge Wordcloud estàndard: [WordCloud_estandard.png](https://ngonzalezs-uoc.github.io/tecniques-visualitzacio/WordCloud/output/WordCloud_estandard.png) 
-- Imatge Wordcloud emmascarat: [WordCloud_emmascarat.png](https://ngonzalezs-uoc.github.io/tecniques-visualitzacio/WordCloud/output/WordCloud_emmascarat.png) 
+**Word Cloud**
+- Imatge Word Cloud estàndard: [WordCloud_estandard.png](https://ngonzalezs-uoc.github.io/tecniques-visualitzacio/WordCloud/output/WordCloud_estandard.png) 
+- Imatge Word Cloud emmascarat: [WordCloud_emmascarat.png](https://ngonzalezs-uoc.github.io/tecniques-visualitzacio/WordCloud/output/WordCloud_emmascarat.png) 
 
 ## Repositori
 
